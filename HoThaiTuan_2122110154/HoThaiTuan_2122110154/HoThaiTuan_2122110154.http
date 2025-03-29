@@ -1,0 +1,6 @@
+@HoThaiTuan_2122110154_HostAddress = http://localhost:5076
+
+GET {{HoThaiTuan_2122110154_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

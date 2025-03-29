@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\HoThaiTuan_2122110154\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|d:\\asp.net\\hothaituan_2122110154\\hothaituan_2122110154\\controllers\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|d:\\asp.net\\hothaituan_2122110154\\hothaituan_2122110154\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|d:\\asp.net\\hothaituan_2122110154\\hothaituan_2122110154\\hothaituan_2122110154.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\hothaituan_2122110154.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|d:\\asp.net\\hothaituan_2122110154\\hothaituan_2122110154\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|d:\\asp.net\\hothaituan_2122110154\\hothaituan_2122110154\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 112,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\WeatherForecast.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\WeatherForecast.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T04:16:39.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoThaiTuan_2122110154.http",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154.http",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\HoThaiTuan_2122110154.http",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154.http",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\HoThaiTuan_2122110154.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-29T04:16:35.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Program.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Program.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Program.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T03:11:35.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Data\\DbContext.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Data\\DbContext.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Data\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T03:08:44.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T03:10:58.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T03:46:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T04:16:27.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\appsettings.json",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\appsettings.json",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T03:27:01.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 112,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
