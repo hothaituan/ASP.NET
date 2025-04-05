@@ -134,3 +134,4 @@ D:\ASP.NET\HoThaiTuan_2122110154\HoThaiTuan_2122110154\bin\Debug\net8.0\ru\Micro
 D:\ASP.NET\HoThaiTuan_2122110154\HoThaiTuan_2122110154\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\ASP.NET\HoThaiTuan_2122110154\HoThaiTuan_2122110154\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\ASP.NET\HoThaiTuan_2122110154\HoThaiTuan_2122110154\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\HoThaiTuan_2122110154\HoThaiTuan_2122110154\obj\Debug\net8.0\HoThaiTuan_2122110154.sourcelink.json
