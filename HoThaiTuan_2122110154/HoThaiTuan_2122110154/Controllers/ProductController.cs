@@ -39,10 +39,21 @@ namespace HoThaiTuan_2122110154.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] Product product)
         {
+            // Kiểm tra nếu CategoryId không tồn tại trong DB
+            var category = await pro.Categories.FindAsync(product.CategoryId);
+            if (category == null)
+            {
+                return BadRequest(new { message = "Invalid CategoryId. Category not found." });
+            }
+
+            // Gán category nếu cần (chỉ khi có navigation property)
+            product.Category = category;
+
             pro.Products.Add(product);
             await pro.SaveChangesAsync();
             return Ok(product);
         }
+
 
         // PUT: api/Product/5
         [HttpPut("{id}")]
@@ -54,7 +65,7 @@ namespace HoThaiTuan_2122110154.Controllers
             existing.Name = product.Name;
             existing.Price = product.Price;
             existing.Image = product.Image;
-
+            existing.Description = product.Description;
             pro.Products.Update(existing);
             await pro.SaveChangesAsync();
             return Ok(existing);
