@@ -3,56 +3,16 @@
   "WorkspaceRootPath": "D:\\ASP.NET\\HoThaiTuan_2122110154\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\hothaituan_2122110154.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\hothaituan_2122110154.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|d:\\asp.net\\hothaituan_2122110154\\hothaituan_2122110154\\controllers\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|d:\\asp.net\\hothaituan_2122110154\\hothaituan_2122110154\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|d:\\asp.net\\hothaituan_2122110154\\hothaituan_2122110154\\controllers\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,27 +23,28 @@
       "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|d:\\asp.net\\hothaituan_2122110154\\hothaituan_2122110154\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\helpers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\controllers\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\controllers\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|D:\\ASP.NET\\HoThaiTuan_2122110154\\hothaituan_2122110154\\hothaituan_2122110154.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0283403A-CBF9-4EFF-AC50-05DA429A473A}|HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj|solutionrelative:hothaituan_2122110154\\hothaituan_2122110154.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HO THAI TUAN\\AppData\\Local\\SourceServer\\0f6c3967f91cf1ad5ba2b78d6dc520fdd3d19bc41671befd7317cd8fdc9a536e\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -93,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 112,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -101,260 +62,141 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Program.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Program.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Program.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T03:11:35.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\appsettings.json",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\appsettings.json",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\appsettings.json",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\appsettings.json",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAIAAACDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T03:27:01.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T04:16:27.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\WeatherForecast.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\WeatherForecast.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T04:16:39.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HoThaiTuan_2122110154.http",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154.http",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\HoThaiTuan_2122110154.http",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154.http",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\HoThaiTuan_2122110154.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-29T04:16:35.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PasswordHelper.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Helpers\\PasswordHelper.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Helpers\\PasswordHelper.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Helpers\\PasswordHelper.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Helpers\\PasswordHelper.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T03:29:00.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\OrderDetail.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\OrderDetail.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\OrderDetail.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA1wA0AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T03:01:42.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Order.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\Order.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Order.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T01:55:21.867Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAswCIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T01:59:41.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\UserController.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwEEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T03:26:34.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA8wBcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T03:10:58.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderDetailController.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\OrderDetailController.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\OrderDetailController.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\OrderDetailController.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\OrderDetailController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T03:03:47.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwA0AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:03:02.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Login.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Login.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\Login.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Login.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T01:02:26.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Helpers\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Helpers\\JwtHelper.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Helpers\\JwtHelper.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Helpers\\JwtHelper.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAADwvyMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T00:52:31.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Data\\DbContext.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Data\\DbContext.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Data\\DbContext.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Data\\DbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T03:08:44.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\User.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\User.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\User.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\User.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowBEAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T03:20:16.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T03:46:35.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\ProductController.cs",
               "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwDcAAAAAAAAA",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAwwJ0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T02:33:00.537Z"
+              "WhenOpened": "2025-04-24T11:15:50.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HoThaiTuan_2122110154",
-              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj",
-              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj",
-              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj",
-              "RelativeToolTip": "HoThaiTuan_2122110154\\HoThaiTuan_2122110154.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-19T00:51:40.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HO THAI TUAN\\AppData\\Local\\SourceServer\\0f6c3967f91cf1ad5ba2b78d6dc520fdd3d19bc41671befd7317cd8fdc9a536e\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Program.cs",
-              "ToolTip": "C:\\Users\\HO THAI TUAN\\AppData\\Local\\SourceServer\\0f6c3967f91cf1ad5ba2b78d6dc520fdd3d19bc41671befd7317cd8fdc9a536e\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Program.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Program.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Program.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T03:38:46.128Z"
+              "WhenOpened": "2025-04-22T15:26:16.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:12:56.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T14:01:13.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Helpers\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Helpers\\PasswordHelper.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Helpers\\PasswordHelper.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Helpers\\PasswordHelper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:41:34.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\Order.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Order.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\Order.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:56:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:03:31.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\dto\\ProductDto.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\dto\\ProductDto.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\dto\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:24:02.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAswGwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:32:12.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\User.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\User.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\User.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIAzwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:35:51.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
+              "ToolTip": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
+              "RelativeToolTip": "HoThaiTuan_2122110154\\Controllers\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T03:46:35.812Z"
             }
           ]
         },

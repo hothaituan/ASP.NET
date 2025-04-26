@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using System.Linq;
 using HoThaiTuan_2122110154.Controllers.Data;
 using HoThaiTuan_2122110154.Controllers.Model;
+using HoThaiTuan_2122110154.dto;
 
 namespace HoThaiTuan_2122110154.Controllers
 {
@@ -22,9 +23,26 @@ namespace HoThaiTuan_2122110154.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
-            var products = await pro.Products.ToListAsync();
-            return Ok(products);
+            var products = await pro.Products
+                .Include(p => p.Category)  // Bao gồm thông tin Category
+                .ToListAsync();
+
+            // Nếu bạn muốn trả về tên category thay vì toàn bộ đối tượng category
+            var productList = products.Select(p => new
+            {
+                p.ID,
+                p.Name,
+                p.Price,
+                p.Image,
+                p.CreatedAt,
+                p.Description,
+                p.Stock,
+                CategoryName = p.Category.Name  // Lấy tên category
+            }).ToList();
+
+            return Ok(productList);
         }
+
 
         // GET: api/Product/5
         [HttpGet("{id}")]
@@ -37,39 +55,71 @@ namespace HoThaiTuan_2122110154.Controllers
 
         // POST: api/Product
         [HttpPost]
-        public async Task<IActionResult> Create([FromBody] Product product)
+        public async Task<IActionResult> Create([FromForm] ProductDto model)
         {
-            // Kiểm tra nếu CategoryId không tồn tại trong DB
-            var category = await pro.Categories.FindAsync(product.CategoryId);
+            // Kiểm tra danh mục có tồn tại không
+            var category = await pro.Categories.FindAsync(model.CategoryId);
             if (category == null)
-            {
                 return BadRequest(new { message = "Invalid CategoryId. Category not found." });
+
+            // Lưu file ảnh
+            string imagePath = null;
+            if (model.Image != null && model.Image.Length > 0)
+            {
+                var fileName = Guid.NewGuid().ToString() + Path.GetExtension(model.Image.FileName);
+                var filePath = Path.Combine("wwwroot/images", fileName); // Thư mục lưu ảnh
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await model.Image.CopyToAsync(stream);
+                }
+                imagePath = "/images/" + fileName;
             }
 
-            // Gán category nếu cần (chỉ khi có navigation property)
-            product.Category = category;
+            // Tạo đối tượng Product
+            var product = new Product
+            {
+                Name = model.Name,
+                Price = model.Price,
+                Description = model.Description,
+                Stock = model.Stock,
+                CreatedAt = DateTime.Now,
+
+                CategoryId = model.CategoryId,
+                Image = imagePath,
+            };
 
             pro.Products.Add(product);
+            await pro.SaveChangesAsync();
+
+            return Ok(product);
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, [FromForm] ProductDto model)
+        {
+            var product = await pro.Products.FindAsync(id);
+            if (product == null) return NotFound();
+
+            product.Name = model.Name;
+            product.Price = model.Price;
+            product.Description = model.Description;
+            product.Stock = model.Stock;
+
+            if (model.Image != null && model.Image.Length > 0)
+            {
+                var fileName = Guid.NewGuid().ToString() + Path.GetExtension(model.Image.FileName);
+                var filePath = Path.Combine("wwwroot/images", fileName);
+                using (var stream = new FileStream(filePath, FileMode.Create))
+                {
+                    await model.Image.CopyToAsync(stream);
+                }
+                product.Image = "/images/" + fileName;
+            }
+
             await pro.SaveChangesAsync();
             return Ok(product);
         }
 
-
-        // PUT: api/Product/5
-        [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, [FromBody] Product product)
-        {
-            var existing = await pro.Products.FindAsync(id);
-            if (existing == null) return NotFound();
-
-            existing.Name = product.Name;
-            existing.Price = product.Price;
-            existing.Image = product.Image;
-            existing.Description = product.Description;
-            pro.Products.Update(existing);
-            await pro.SaveChangesAsync();
-            return Ok(existing);
-        }
 
         // DELETE: api/Product/5
         [HttpDelete("{id}")]
@@ -82,5 +132,29 @@ namespace HoThaiTuan_2122110154.Controllers
             await pro.SaveChangesAsync();
             return Ok(new { message = "Deleted successfully" });
         }
+        // GET: api/Product/category/3
+        [HttpGet("category/{categoryId}")]
+        public async Task<IActionResult> GetByCategoryId(int categoryId)
+        {
+            var products = await pro.Products
+                .Include(p => p.Category)
+                .Where(p => p.CategoryId == categoryId)
+                .ToListAsync();
+
+            var productList = products.Select(p => new
+            {
+                p.ID,
+                p.Name,
+                p.Price,
+                p.Image,
+                p.CreatedAt,
+                p.Description,
+                p.Stock,
+                CategoryName = p.Category.Name
+            }).ToList();
+
+            return Ok(productList);
+        }
+
     }
 }

@@ -1,0 +1,1 @@
+export const ApiImages = "https://localhost:7042/"

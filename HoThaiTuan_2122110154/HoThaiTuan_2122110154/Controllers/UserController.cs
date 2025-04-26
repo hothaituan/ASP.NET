@@ -32,7 +32,7 @@ namespace HoThaiTuan_2122110154.Controllers
 
             user.Password = PasswordHelper.HashPassword(user.Password); // 👈 Mã hóa mật khẩu
             user.CreatedAt = DateTime.Now;
-            user.CreatedBy = user.Username;
+
 
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
@@ -73,6 +73,60 @@ namespace HoThaiTuan_2122110154.Controllers
             var users = await _context.Users.ToListAsync();
             return Ok(users);
         }
+        // DELETE: api/User/5
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteUser(int id)
+        {
+            var user = await _context.Users.FindAsync(id);
+            if (user == null)
+                return NotFound(new { message = "User not found" });
+
+            _context.Users.Remove(user);
+            await _context.SaveChangesAsync();
+
+            return Ok(new { message = "User deleted successfully" });
+        }
+        // PUT: api/User/5
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateUser(int id, [FromBody] User updatedUser)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var user = await _context.Users.FindAsync(id);
+            if (user == null)
+                return NotFound(new { message = "User not found" });
+
+            // Cập nhật thông tin người dùng
+            user.Name = updatedUser.Name;
+            user.Username = updatedUser.Username;
+            user.Email = updatedUser.Email;
+            user.Phone = updatedUser.Phone;
+            user.Address = updatedUser.Address;
+            user.Gender = updatedUser.Gender;
+
+            // Nếu có mật khẩu mới thì mã hóa và cập nhật
+            if (!string.IsNullOrEmpty(updatedUser.Password))
+            {
+                user.Password = PasswordHelper.HashPassword(updatedUser.Password);
+            }
+
+           
+
+            await _context.SaveChangesAsync();
+            return Ok(new { message = "User updated successfully", user });
+        }
+        // GET: api/User/5
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetUserById(int id)
+        {
+            var user = await _context.Users.FindAsync(id);
+            if (user == null)
+                return NotFound(new { message = "User not found" });
+
+            return Ok(user);
+        }
+
 
     }
 }

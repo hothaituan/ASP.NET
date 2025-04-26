@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\133a3f9e-7fc8-482a-8a82-0df80823d2d4.png",
+      "PackagePath": "staticwebassets\\images\\133a3f9e-7fc8-482a-8a82-0df80823d2d4.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\15222138-76ee-43eb-8d00-b07fac0ee022.jpg",
+      "PackagePath": "staticwebassets\\images\\15222138-76ee-43eb-8d00-b07fac0ee022.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\29e50894-8447-489d-aeca-9c6ab79a1cbb.jpg",
+      "PackagePath": "staticwebassets\\images\\29e50894-8447-489d-aeca-9c6ab79a1cbb.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\387e75a6-5275-46fb-8238-29c070eb37fa.png",
+      "PackagePath": "staticwebassets\\images\\387e75a6-5275-46fb-8238-29c070eb37fa.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\5a50d0d6-36e7-420b-aa1d-e3591c80b075.png",
+      "PackagePath": "staticwebassets\\images\\5a50d0d6-36e7-420b-aa1d-e3591c80b075.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\6dcf07f9-4abc-49f4-bdc3-153daa55a733.jpg",
+      "PackagePath": "staticwebassets\\images\\6dcf07f9-4abc-49f4-bdc3-153daa55a733.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\842d92c8-dce0-43b3-8bc0-0310c775b492.jpg",
+      "PackagePath": "staticwebassets\\images\\842d92c8-dce0-43b3-8bc0-0310c775b492.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\a3a379b6-7352-4e7e-8bea-d5cf6c68495f.png",
+      "PackagePath": "staticwebassets\\images\\a3a379b6-7352-4e7e-8bea-d5cf6c68495f.png"
+    },
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\b74f8c0b-716a-4a53-adc0-c05f9ea040c4.jpg",
+      "PackagePath": "staticwebassets\\images\\b74f8c0b-716a-4a53-adc0-c05f9ea040c4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\caedd43d-b7a5-4a76-99e2-e551e5a1b271.jpg",
+      "PackagePath": "staticwebassets\\images\\caedd43d-b7a5-4a76-99e2-e551e5a1b271.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\eed81d13-3237-4947-8ceb-7409e4b0349c.jpg",
+      "PackagePath": "staticwebassets\\images\\eed81d13-3237-4947-8ceb-7409e4b0349c.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET\\HoThaiTuan_2122110154\\HoThaiTuan_2122110154\\wwwroot\\images\\f8f58ed6-48dd-4912-a1b8-d1863fb47c16.jpg",
+      "PackagePath": "staticwebassets\\images\\f8f58ed6-48dd-4912-a1b8-d1863fb47c16.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HoThaiTuan_2122110154.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HoThaiTuan_2122110154.props",
+      "PackagePath": "build\\HoThaiTuan_2122110154.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HoThaiTuan_2122110154.props",
+      "PackagePath": "buildMultiTargeting\\HoThaiTuan_2122110154.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HoThaiTuan_2122110154.props",
+      "PackagePath": "buildTransitive\\HoThaiTuan_2122110154.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

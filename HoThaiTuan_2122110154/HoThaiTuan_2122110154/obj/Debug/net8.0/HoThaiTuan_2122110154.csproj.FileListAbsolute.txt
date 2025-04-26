@@ -138,3 +138,4 @@ D:\ASP.NET\HoThaiTuan_2122110154\HoThaiTuan_2122110154\obj\Debug\net8.0\ref\HoTh
 D:\ASP.NET\HoThaiTuan_2122110154\HoThaiTuan_2122110154\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
 D:\ASP.NET\HoThaiTuan_2122110154\HoThaiTuan_2122110154\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\ASP.NET\HoThaiTuan_2122110154\HoThaiTuan_2122110154\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\ASP.NET\HoThaiTuan_2122110154\HoThaiTuan_2122110154\bin\Debug\net8.0\HoThaiTuan_2122110154.staticwebassets.runtime.json

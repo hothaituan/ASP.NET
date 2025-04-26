@@ -7,7 +7,9 @@ namespace HoThaiTuan_2122110154.Controllers.Model
         public DateTime OrderDate { get; set; }
 
         public int UserId { get; set; }
-        public List<OrderDetail> OrderDetails { get; set; } 
+     
+        public List<OrderDetail> OrderDetails { get; set; }
+        public User User { get; set; } // navigation property
     }
 
 }
